@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+.responsive-containers {
+    padding: 20px 0px 20px 0px;
+}
+
+.headings {
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+.responsive-images {
+    padding: 20px 0px 20px 0px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tables {
+    padding: 20px 0px 20px 0px;
+}
+
+.table-variants {
+    padding: 20px 0px 20px 0px;
+}
+
+.figures {
+    padding: 20px 0px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+figure {
+    height: 25%;
+    width: 25%;
+}
